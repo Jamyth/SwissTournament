@@ -4,7 +4,7 @@
     "compilerOptions": {
         "target": "ES5",
         "rootDir": "../",
-        "baseUrl": "../src",
+        "baseUrl": "../src"
     },
     "include": ["../src", "../test"]
 }
